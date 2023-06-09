@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">密碼管理器</string>
+
+    <string name="mlock_st_create_password">建立主密碼</string>
+    <string name="mlock_st_master_password_greet">歡迎登入，請輸入主密碼</string>
+    <!--Start NAV-->
+    <string name="title_activity_home">密碼管理器</string>
+    <string name="action_settings">設定</string>
+
+    <!--END-->
+
+    <!--INTRO SLIDE-->
+    <string name="next">下一個</string>
+    <string name="skip">跳過</string>
+    <string name="start">已經了解</string>
+
+    <string name="slide_1_desc">存儲您訪問每個網站的密碼最簡單的方法！</string>
+
+    <string name="slide_2_title">離線</string>
+    <string name="slide_2_desc">您的數據僅存儲在您的設備上。</string>
+
+    <string name="slide_3_title">強大的加密</string>
+    <string name="slide_3_desc">我們使用最強的加密技術來保護您的數據！</string>
+
+    <string name="slide_4_title">開放原始碼</string>
+    <string name="slide_4_desc">我們是開放源碼的，當然有著完全的透明度！</string>
+    <string name="title_activity_settings">設定</string>
+    <!-- Lock  -->
+    <string name="auth">使用指紋驗證</string>
+
+    <!-- Preference Titles -->
+    <string name="security">安全</string>
+    <string name="data">數據</string>
+    <string name="about">關於</string>
+
+    <!-- Security Preferences -->
+    <string name="ask_password_before_launch">在啟動前要求密碼</string>
+    <string name="change_master_password">更改主密碼</string>
+    <string name="scm_description">在應用中禁用更新，複製到剪貼簿和截圖</string>
+
+    <!-- Data Preferences -->
+    <string name="delete_data">清除所有密碼</string>
+
+    <!--About Preferences-->
+    <string name="about_app">關於app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="help">幫助</string>
+    <string name="copy_code">複製</string>
+    <string name="Refresh">更新</string>
+    <string name="add_record">新增</string>
+    <string name="btn_update">更新</string>
+    <string name="btn_delete">刪除</string>
+    <string name="empty_list_text">找不到資料</string>
+    <string name="version">版本 0.1.2</string>
+    <string name="Github">Github 連結</string>
+    <string name="check_update">檢查更新</string>
+    <string name="update">更希</string>
+    <string name="data_restore">恢復資料</string>
+    <string name="data_export">導出資料</string>
+    <!--END-->
+</resources>
